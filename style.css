@@ -99,6 +99,7 @@ h2{
     font-weight: 400;
     font-size: 28px;
     font-family: var(--header-font);
+    font-weight: 600;
     color: var(--nutmeg-color);
 }
 img{
